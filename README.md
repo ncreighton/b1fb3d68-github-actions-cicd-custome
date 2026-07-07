@@ -1,2 +1,34 @@
-# b1fb3d68-github-actions-cicd-custome
-The fastest way to have 24/7 automated responses without touching a server. No setup fees. No learning curve.  Easy setup: invite → configure → active in under 10 minutes. 24/7 operation — runs on your server or scales to any hosting platform.  ## What's Included  - Github Actions &amp; Ci/Cd Customer Support And Faq — fully configured and ready to use
+# GitHub Actions & CI/CD Customer Support and FAQ Bot
+
+24/7 automated responses, ticket routing, and knowledge base search for GitHub Actions & CI/CD businesses. Support coverage without hiring more staff.
+
+## Setup
+1. Set `TELEGRAM_BOT_TOKEN` in `.env`
+2. `pip install -r requirements.txt`
+3. `python main.py`
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic commands | Yes | Yes |
+| Standard responses | Yes | Yes |
+| Community access | Yes | Yes |
+| Custom commands | - | Yes |
+| Analytics dashboard | - | Yes |
+| Priority processing | - | Yes |
+| API webhooks | - | Yes |
+| Unlimited servers | - | Yes |
+| White-label branding | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/bJeaEX7r13o8bRS1ZicZG1Y)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/bJeaEX7r13o8bRS1ZicZG1Y)
+
